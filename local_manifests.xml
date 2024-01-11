@@ -3,6 +3,8 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com" />
 
+  <remove-project name="LineageOS/android_build_soong" />
+
   <remove-project name="LineageOS/android_bionic" />
   <remove-project name="LineageOS/android_frameworks_av" />
   <remove-project name="LineageOS/android_frameworks_base" />
@@ -19,6 +21,11 @@
   <remove-project name="LineageOS/android_packages_overlays_Lineage" />
   <remove-project name="LineageOS/android_system_core" />
   <remove-project name="LineageOS/android_vendor_lineage" />
+
+  <project path="build/soong" name="Kusuma-x-Blueprint/android_build_soong" groups="pdk,tradefed" >
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
 
   <project path="bionic" name="Kusuma-x-Blueprint/android_bionic" />
   <project path="frameworks/av" name="Kusuma-x-Blueprint/android_frameworks_av" />
