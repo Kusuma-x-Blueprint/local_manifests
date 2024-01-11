@@ -46,5 +46,5 @@
   <project path="system/core" name="Kusuma-x-Blueprint/android_system_core" groups="pdk" />
   <project path="vendor/lineage" name="Kusuma-x-Blueprint/android_vendor_lineage" />
   <project path="vendor/extra" name="Kusuma-x-Blueprint/android_vendor_extra" />
-  <project path="vendor/extra-priv" name="Kusuma-x-Blueprint/android_vendor_extra-priv" />
+  <project path="vendor/extra-priv" name="Kusuma-x-Blueprint/android_vendor_extra-priv" revision="250290eabfd0f393163fc402bbb665d498f6f6c2" />
 </manifest>
