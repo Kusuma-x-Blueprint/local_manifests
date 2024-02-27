@@ -44,7 +44,7 @@
   <project path="frameworks/base" name="Kusuma-x-Blueprint/android_frameworks_base" />
   <project path="frameworks/libs/systemui" name="Kusuma-x-Blueprint/android_frameworks_libs_systemui" />
   <project path="lineage-sdk" name="Kusuma-x-Blueprint/android_lineage-sdk" />
-  <project path="packages/apps/Cromite" name="plros-lab/android_packages_apps_Cromite" remote="gitlab" />
+  <project path="packages/apps/CromitePrebuilt" name="plros-lab/android_packages_apps_CromitePrebuilt" remote="gitlab" />
   <project path="packages/apps/GlimpsePrebuilt" name="Kusuma-x-Blueprint/android_packages_apps_GlimpsePrebuilt" groups="pdk-fs" />
   <project path="packages/apps/LineageParts" name="Kusuma-x-Blueprint/android_packages_apps_LineageParts" />
   <project path="packages/apps/Messaging" name="Kusuma-x-Blueprint/android_packages_apps_Messaging" />
