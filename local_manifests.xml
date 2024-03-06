@@ -53,6 +53,7 @@
   <project path="packages/apps/DeskClock" name="Kusuma-x-Blueprint/android_packages_apps_DeskClock" groups="pdk-fs" />
   <project path="packages/apps/Eleven" name="Kusuma-x-Blueprint/android_packages_apps_Eleven" />
   <project path="packages/apps/ExactCalculator" name="Kusuma-x-Blueprint/android_packages_apps_ExactCalculator" />
+  <project path="packages/apps/ExtraPIHooks" name="Kusuma-x-Blueprint/android_packages_apps_ExtraPIHooks" />
   <project path="packages/apps/GlimpsePrebuilt" name="Kusuma-x-Blueprint/android_packages_apps_GlimpsePrebuilt" groups="pdk-fs" />
   <project path="packages/apps/LineageParts" name="Kusuma-x-Blueprint/android_packages_apps_LineageParts" />
   <project path="packages/apps/Messaging" name="Kusuma-x-Blueprint/android_packages_apps_Messaging" />
@@ -68,5 +69,5 @@
   <project path="system/core" name="Kusuma-x-Blueprint/android_system_core" groups="pdk" />
   <project path="vendor/lineage" name="Kusuma-x-Blueprint/android_vendor_lineage" />
   <project path="vendor/extra" name="Kusuma-x-Blueprint/android_vendor_extra" />
-  <project path="vendor/extra-priv" name="Kusuma-x-Blueprint/android_vendor_extra-priv" revision="250290eabfd0f393163fc402bbb665d498f6f6c2" />
+  <project path="vendor/extra-priv" name="Kusuma-x-Blueprint/android_vendor_extra-priv" />
 </manifest>
